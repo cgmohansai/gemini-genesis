@@ -1,5 +1,7 @@
 # Gemini Genesis
 
+Video Explaination video : https://drive.google.com/file/d/1z65h_mo8w-tJe_I5GB4VWe15sRlvKPgo/view?usp=drive_link
+
 Gemini Genesis is an AI-powered Career OS designed to bridge the gap between academic learning and real-world placement readiness. It provides a unified platform for resume analysis, interview preparation, skill training, and performance monitoring—built to scale for institutions and effective for individual learners.
 
 ## Problem Statement
@@ -41,5 +43,5 @@ Gemini Genesis acts as a 24/7 AI mentor for students and a centralized command c
 
 **Team**: Gemini Genesis  
 **Domain**: Education Technology  
-**Team Lead**: Kumaran M
-**Team Members**: C G Mohan Sai, Mohan Chandra, Muhammad Riyaz
+**Team Lead**: Kumaran M  
+**Team Members**: C G Mohan Sai, Mohan Chandran, Muhammad Riyaz
